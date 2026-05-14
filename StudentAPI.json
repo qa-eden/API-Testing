@@ -39,6 +39,46 @@
         "Automation"
       ],
       "id": 4
+    },
+    {
+      "name": "Eden",
+      "location": "Paris",
+      "phone": "1234567890",
+      "course": [
+        "Postman",
+        "Selenium"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Eden",
+      "location": "Paris",
+      "phone": "1234567890",
+      "course": [
+        "Postman",
+        "Selenium"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Eden",
+      "location": "Paris",
+      "phone": "1234567890",
+      "course": [
+        "Postman",
+        "Selenium"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Eden",
+      "location": "Paris",
+      "phone": "1234567890",
+      "course": [
+        "Postman",
+        "Selenium"
+      ],
+      "id": 9
     }
   ]
 }
